@@ -1,6 +1,6 @@
 import pathlib
 import os
-import demo_project_1 as mlops_project
+import demo_24_jan_w1 as mlops_project
 
 # Define the root directory of the project by resolving the path of the project's __file__ attribute
 ROOT_DIR = pathlib.Path(mlops_project.__file__).resolve().parent

@@ -29,6 +29,7 @@ def main():
 
     # save model
     joblib.dump(model, os.path.join(config.SAVE_MODEL_DIR, config.MODEL_NAME))
+    print("Model saved successfully")
 
 if __name__ == '__main__':
     main()

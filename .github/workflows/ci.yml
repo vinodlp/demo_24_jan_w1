@@ -50,7 +50,7 @@ jobs:
         run: echo "IMAGE_URL=${{env.IMAGE_URI}}" > artifact_metadata.json
 
       - name: Upload Artifact Metadata
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: artifact_metadata
           path: artifact_metadata.json

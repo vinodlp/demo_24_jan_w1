@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/914843927428619839/f73d038f384446fdb296c8f6bc8b7aab/artifacts
+end_time: 1738426661764
+entry_point_name: ''
+experiment_id: '914843927428619839'
+lifecycle_stage: active
+run_id: f73d038f384446fdb296c8f6bc8b7aab
+run_name: adaptable-finch-222
+run_uuid: f73d038f384446fdb296c8f6bc8b7aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738426659610
+status: 3
+tags: []
+user_id: nachikethpro

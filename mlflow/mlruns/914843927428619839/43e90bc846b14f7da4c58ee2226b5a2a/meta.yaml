@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/914843927428619839/43e90bc846b14f7da4c58ee2226b5a2a/artifacts
+end_time: 1738426487570
+entry_point_name: ''
+experiment_id: '914843927428619839'
+lifecycle_stage: active
+run_id: 43e90bc846b14f7da4c58ee2226b5a2a
+run_name: zealous-bass-472
+run_uuid: 43e90bc846b14f7da4c58ee2226b5a2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738426487543
+status: 4
+tags: []
+user_id: nachikethpro

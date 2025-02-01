@@ -1,0 +1,12 @@
+creation_timestamp: 1738426661754
+current_stage: Production
+description: ''
+last_updated_timestamp: 1738426807199
+name: iris_model
+run_id: f73d038f384446fdb296c8f6bc8b7aab
+run_link: ''
+source: mlflow-artifacts:/914843927428619839/f73d038f384446fdb296c8f6bc8b7aab/artifacts/iris_model
+status: READY
+status_message: null
+user_id: null
+version: 2

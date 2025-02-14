@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  REPOSITORY_NAME: nachiketh
+  REPOSITORY_NAME: vinodlp
   IMAGE_TAG: latest
 
 jobs:

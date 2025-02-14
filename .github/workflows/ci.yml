@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  REPOSITORY_NAME: 24jan-demo
+  REPOSITORY_NAME: nachiketh
   IMAGE_TAG: latest
 
 jobs:
